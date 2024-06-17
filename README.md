@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586271105/noticon/eyjidxvaivj5xh1vitnn.gif" alt="chelim's GitHub" width="30%" height="30%"> Chelim's&nbsp;GitHub &nbsp; [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchech2)](https://hits.seeyoufarm.com)
 <!--
 **songgeunwoong/songgeunwoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
