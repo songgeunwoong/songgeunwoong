@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 <br>
 <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=#3776AB" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=#000000" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br>
@@ -28,5 +27,5 @@
   <!-- 백준 티어 -->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songgu001)](https://solved.ac/profile/songgu001/)
   <!-- 언어 사용 -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songguenwoong&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songguenwoong&langs_count=10&layout=compact&theme=white) ](https://github.com/songgeunwoong/songguenwoong)
 </div>
